@@ -1,0 +1,9 @@
+gradio==6.4.0
+gradio_client==2.0.3
+implicit==0.7.2
+pandas==2.3.3
+pymongo==4.16.0
+scikit-learn==1.8.0
+scipy==1.17.0
+tqdm==4.67.1
+numpy>=1.26.0
