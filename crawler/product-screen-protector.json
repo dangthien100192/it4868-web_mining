@@ -1,0 +1,655 @@
+[
+  {
+    "id": "pid361187",
+    "name": "Kính cường lực Likglass Redmi Note 15",
+    "brand": "likglass",
+    "device_type": "android",
+    "models": [
+      "redmi note 15 pid361187",
+      "redmi note 15"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 200000
+  },
+  {
+    "id": "pid361185",
+    "name": "Kính cường lực Redmi 15 5G",
+    "brand": null,
+    "device_type": "android",
+    "models": [
+      "redmi 15 5g pid361185",
+      "redmi 15 5g"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 139000
+  },
+  {
+    "id": "pid361184",
+    "name": "Kính cường lực Likglass iPhone 13/16e",
+    "brand": "likglass",
+    "device_type": "iphone",
+    "models": [
+      "iphone 13"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 139000
+  },
+  {
+    "id": "pid359173",
+    "name": "Tấm dán cường lực iFinger HONOR X7D",
+    "brand": "ifinger",
+    "device_type": "android",
+    "models": [
+      "honor x7d pid359173",
+      "honor x7d"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 150000
+  },
+  {
+    "id": "pid359174",
+    "name": "Tấm dán cường lực iFinger HONOR X6C",
+    "brand": "ifinger",
+    "device_type": "android",
+    "models": [
+      "honor x6c pid359174",
+      "honor x6c"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 150000
+  },
+  {
+    "id": "pid358563",
+    "name": "Kính cường lực SUPER chống bụi iPhone 17 Pro Max",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid358562",
+    "name": "Kính cường lực SUPER chống bụi iPhone 17 Pro",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid358445",
+    "name": "Kính cường lực Samsung Tab A11",
+    "brand": null,
+    "device_type": "samsung",
+    "models": [
+      "samsung tab a11"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355722",
+    "name": "Kính chống nhìn trộm LikGlass GODZILLA iPhone 17 Pro Max",
+    "brand": "likglass",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [
+      "privacy"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355723",
+    "name": "Kính chống nhìn trộm LikGlass GODZILLA iPhone 17 Pro",
+    "brand": "likglass",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro"
+    ],
+    "glass_type": [
+      "privacy"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355724",
+    "name": "Kính chống nhìn trộm LikGlass GODZILLA iPhone Air",
+    "brand": "likglass",
+    "device_type": "iphone",
+    "models": [],
+    "glass_type": [
+      "privacy"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355725",
+    "name": "Kính chống nhìn trộm LikGlass GODZILLA iPhone 17",
+    "brand": "likglass",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17"
+    ],
+    "glass_type": [
+      "privacy"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355726",
+    "name": "Combo Devia bảo vệ 3 in 1 iPhone 17 Pro Max",
+    "brand": "devia",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [],
+    "price": 650000
+  },
+  {
+    "id": "pid355718",
+    "name": "Kính cường lực Zagg iPhone 17 Pro Max",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 390000
+  },
+  {
+    "id": "pid355719",
+    "name": "Kính cường lực Zagg iPhone 17 Pro",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 390000
+  },
+  {
+    "id": "pid355721",
+    "name": "Kính cường lực Zagg iPhone 17",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 390000
+  },
+  {
+    "id": "pid355720",
+    "name": "Kính cường lực Zagg iPhone Air",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 390000
+  },
+  {
+    "id": "pid355731",
+    "name": "Kính cường lực không viền iPhone 17 Pro Max",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [
+      "no-edge",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355732",
+    "name": "Kính cường lực không viền iPhone 17 Pro",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro"
+    ],
+    "glass_type": [
+      "no-edge",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355733",
+    "name": "Kính cường lực không viền iPhone Air",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [],
+    "glass_type": [
+      "no-edge",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355734",
+    "name": "Kính cường lực không viền iPhone 17",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17"
+    ],
+    "glass_type": [
+      "no-edge",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355735",
+    "name": "Kính cường lực Full iPhone 17 Pro Max",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [
+      "full",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355736",
+    "name": "Kính cường lực Full iPhone 17 Pro",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro"
+    ],
+    "glass_type": [
+      "full",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355737",
+    "name": "Kính cường lực Full iPhone Air",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [],
+    "glass_type": [
+      "full",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355738",
+    "name": "Kính cường lực Full iPhone 17",
+    "brand": null,
+    "device_type": "iphone",
+    "models": [
+      "iphone 17"
+    ],
+    "glass_type": [
+      "full",
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid355727",
+    "name": "Kính cường lực Devia Star iPhone 17 Pro Max",
+    "brand": "devia",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro max"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355728",
+    "name": "Kính cường lực Devia Star iPhone 17 Pro",
+    "brand": "devia",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17 pro"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355729",
+    "name": "Kính cường lực Devia Star iPhone Air",
+    "brand": "devia",
+    "device_type": "iphone",
+    "models": [],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid355730",
+    "name": "Kính cường lực Devia Star iPhone 17",
+    "brand": "devia",
+    "device_type": "iphone",
+    "models": [
+      "iphone 17"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid354240",
+    "name": "Tấm dán iFinger Oppo A5i/A5i Pro",
+    "brand": "ifinger",
+    "device_type": "android",
+    "models": [
+      "oppo a5i a5i pro pid354240",
+      "oppo a5i a5i pro"
+    ],
+    "glass_type": [],
+    "price": 139000
+  },
+  {
+    "id": "pid353635",
+    "name": "Tấm dán iFinger Oppo Reno 14/14F",
+    "brand": "ifinger",
+    "device_type": "android",
+    "models": [
+      "oppo reno 14 14f pid353635",
+      "oppo reno 14 14f"
+    ],
+    "glass_type": [],
+    "price": 139000
+  },
+  {
+    "id": "pid335710",
+    "name": "Kính cường lực Zagg iPad Pro M4 13 inch",
+    "brand": "zagg",
+    "device_type": "ipad",
+    "models": [
+      "ipad pro m4 13 inch pid335710",
+      "ipad pro m4 13 inch"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 590000
+  },
+  {
+    "id": "pid335709",
+    "name": "Kính cường lực Zagg iPad Pro M4 11 inch",
+    "brand": "zagg",
+    "device_type": "ipad",
+    "models": [
+      "ipad pro m4 11 inch pid335709",
+      "ipad pro m4 11 inch"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 490000
+  },
+  {
+    "id": "pid335708",
+    "name": "Kính cường lực Zagg iPad Air M2 13 inch",
+    "brand": "zagg",
+    "device_type": "ipad",
+    "models": [
+      "ipad air m2 13 inch pid335708",
+      "ipad air m2 13 inch"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 590000
+  },
+  {
+    "id": "pid340178",
+    "name": "Kính cường lực Zagg iPhone 16 Plus/iPhone 15 Plus",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 16 plus",
+      "iphone 15 plus"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid340181",
+    "name": "Kính cường lực Zagg iPhone 16/iPhone 15",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 16",
+      "iphone 15"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid340184",
+    "name": "Kính gắn Camera Zagg iPhone 16 Pro/16 Pro Max",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 16 pro"
+    ],
+    "glass_type": [
+      "camera-glass"
+    ],
+    "price": 199000
+  },
+  {
+    "id": "pid340179",
+    "name": "Kính cường lực Zagg iPhone 16 Pro",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 16 pro"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid340180",
+    "name": "Kính cường lực Zagg iPhone 16 Pro Max",
+    "brand": "zagg",
+    "device_type": "iphone",
+    "models": [
+      "iphone 16 pro max"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 290000
+  },
+  {
+    "id": "pid346353",
+    "name": "Kính cường lực Samsung S24 FE",
+    "brand": null,
+    "device_type": "samsung",
+    "models": [
+      "samsung s24 fe"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 126000
+  },
+  {
+    "id": "pid346362",
+    "name": "Kính cường lực Samsung S25 Ultra",
+    "brand": null,
+    "device_type": "samsung",
+    "models": [
+      "samsung s25 ultra"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 240000
+  },
+  {
+    "id": "pid346361",
+    "name": "Kính cường lực Samsung S25 Plus",
+    "brand": null,
+    "device_type": "samsung",
+    "models": [
+      "samsung s25 plus"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 200000
+  },
+  {
+    "id": "pid346359",
+    "name": "Kính cường lực Samsung S25",
+    "brand": null,
+    "device_type": "samsung",
+    "models": [
+      "samsung s25"
+    ],
+    "glass_type": [
+      "tempered-glass"
+    ],
+    "price": 180000
+  },
+  {
+    "id": "pid336013",
+    "name": "Tấm dán Likglass Samsung A35 Full",
+    "brand": "likglass",
+    "device_type": "samsung",
+    "models": [
+      "samsung a35"
+    ],
+    "glass_type": [
+      "full"
+    ],
+    "price": 126000
+  },
+  {
+    "id": "pid336014",
+    "name": "Tấm dán Likglass Samsung A55 Full",
+    "brand": "likglass",
+    "device_type": "samsung",
+    "models": [
+      "samsung a55"
+    ],
+    "glass_type": [
+      "full"
+    ],
+    "price": 126000
+  },
+  {
+    "id": "pid345854",
+    "name": "Tấm dán iFinger Honor X5b",
+    "brand": "ifinger",
+    "device_type": "android",
+    "models": [
+      "honor x5b pid345854",
+      "honor x5b"
+    ],
+    "glass_type": [],
+    "price": 126000
+  },
+  {
+    "id": "pid345852",
+    "name": "Tấm dán iFinger Samsung A16",
+    "brand": "ifinger",
+    "device_type": "samsung",
+    "models": [
+      "samsung a16"
+    ],
+    "glass_type": [],
+    "price": 126000
+  },
+  {
+    "id": "pid345269",
+    "name": "Tấm dán cường lực Oppo A3 Full",
+    "brand": null,
+    "device_type": "android",
+    "models": [
+      "oppo a3 full pid345269",
+      "oppo a3 full"
+    ],
+    "glass_type": [
+      "full",
+      "tempered-glass"
+    ],
+    "price": 126000
+  },
+  {
+    "id": "pid345268",
+    "name": "Tấm dán cường lực Vivo Y19S Full",
+    "brand": null,
+    "device_type": "android",
+    "models": [
+      "vivo y19s full pid345268",
+      "vivo y19s full"
+    ],
+    "glass_type": [
+      "full",
+      "tempered-glass"
+    ],
+    "price": 129000
+  },
+  {
+    "id": "pid345266",
+    "name": "Tấm dán iFinger Redmi Note 14",
+    "brand": "ifinger",
+    "device_type": "android",
+    "models": [
+      "redmi note 14 pid345266",
+      "redmi note 14"
+    ],
+    "glass_type": [],
+    "price": 126000
+  }
+]

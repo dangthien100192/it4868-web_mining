@@ -1,0 +1,633 @@
+[
+  {
+    "id": "pid361029",
+    "name": "Tai nghe Bluetooth Edifier Atom Max",
+    "price": 890000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid361031",
+    "name": "Tai nghe Bluetooth TWS Edifier X3 Lite",
+    "price": 490000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid361032",
+    "name": "Tai nghe Bluetooth Edifier WH950NB",
+    "price": 2290000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid361033",
+    "name": "Tai nghe có dây Edifier P180 Plus 3.5mm",
+    "price": 145000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid360901",
+    "name": "Tai Nghe Bluetooth JBL Tune 520BT",
+    "price": 990000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid360902",
+    "name": "Tai nghe Bluetooth JBL Tune 670NC",
+    "price": 2190000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid360903",
+    "name": "Tai nghe Bluetooth TWS JBL Wave Beam 2",
+    "price": 1350000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid360904",
+    "name": "Tai nghe Bluetooth TWS JBL Tune Beam 2",
+    "price": 2346000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid361304",
+    "name": "Tai nghe Pisen EarPhone AP03 3.5mm",
+    "price": 175000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid361030",
+    "name": "Tai nghe Bluetooth Edifier W820NB",
+    "price": 790000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid349518",
+    "name": "Tai nghe Bluetooth True Wireless StarGO Hero",
+    "price": 499000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid344809",
+    "name": "Tai nghe Bluetooth True Wireless Havit TW947",
+    "price": 350000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid340125",
+    "name": "Tai nghe AirPods 4",
+    "price": 3390000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid323448",
+    "name": "Tai nghe TWS Vivumax Sport 1",
+    "price": 299000,
+    "connections": []
+  },
+  {
+    "id": "pid358062",
+    "name": "Tai nghe bluetooth Havit model OWS929",
+    "price": 350000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid358063",
+    "name": "Tai nghe bluetooth Havit model LIFE 04T",
+    "price": 259000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid358055",
+    "name": "Tai nghe bluetooth Havit model TW992",
+    "price": 390000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid358056",
+    "name": "Tai nghe bluetooth Havit model Space S1",
+    "price": 1590000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid356927",
+    "name": "Tai nghe Bluetooth Oppo Enco Buds 3 Pro",
+    "price": 970000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid355611",
+    "name": "Tai nghe AirPods Pro 3 USB-C",
+    "price": 6390000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid352761",
+    "name": "Tai nghe TWS Stereo Super T06",
+    "price": 590000,
+    "connections": []
+  },
+  {
+    "id": "pid352762",
+    "name": "Tai nghe Bluetooth đeo cổ Stereo Super N01",
+    "price": 299000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid354402",
+    "name": "Tai nghe TWS Vivumax VX12 Pro",
+    "price": 390000,
+    "connections": []
+  },
+  {
+    "id": "pid356084",
+    "name": "Tai nghe dây Jellico X14 Lighning",
+    "price": 160000,
+    "connections": []
+  },
+  {
+    "id": "pid356083",
+    "name": "Tai nghe dây Jellico X14 Type C",
+    "price": 160000,
+    "connections": []
+  },
+  {
+    "id": "pid356082",
+    "name": "Tai nghe dây Jellico X14 3.5mm",
+    "price": 160000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid344810",
+    "name": "Tai nghe Bluetooth chụp tai Havit H2590BT Pro",
+    "price": 259000,
+    "connections": [],
+    "charging_port": "micro-usb"
+  },
+  {
+    "id": "pid354639",
+    "name": "Tai nghe Samsung Galaxy Buds Core",
+    "price": 1190000,
+    "connections": []
+  },
+  {
+    "id": "pid355026",
+    "name": "Tai nghe Bluetooth Oppo Enco Buds 3",
+    "price": 890000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid323428",
+    "name": "Tai nghe AirPods Pro Gen 2 (USB-C)",
+    "price": 4290000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid340124",
+    "name": "Tai nghe AirPods 4 Khử ồn chủ động",
+    "price": 4490000,
+    "connections": [
+      "bluetooth"
+    ],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid135808",
+    "name": "Tai nghe chụp tai OVLENG X7",
+    "price": 295000,
+    "connections": []
+  },
+  {
+    "id": "pid340126",
+    "name": "Tai nghe AirPods Max USB-C",
+    "price": 13290000,
+    "connections": [
+      "bluetooth"
+    ],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid314668",
+    "name": "Tai nghe Gaming Zidli LH1 Ultimate",
+    "price": 1215000,
+    "connections": []
+  },
+  {
+    "id": "pid314874",
+    "name": "Tai nghe Gaming Zidli AH1 2.4G",
+    "price": 1299000,
+    "connections": []
+  },
+  {
+    "id": "pid289225",
+    "name": "Tai nghe Bluetooth Oppo Enco Air 2",
+    "price": 690000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid348921",
+    "name": "Tai nghe Bluetooth Realme T200 Lite",
+    "price": 390000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid341221",
+    "name": "Tai nghe Wekome LikSound AT01 Lightning",
+    "price": 190000,
+    "connections": []
+  },
+  {
+    "id": "pid341222",
+    "name": "Tai nghe Wekome LikSound AT01 Type C",
+    "price": 190000,
+    "connections": []
+  },
+  {
+    "id": "pid341219",
+    "name": "Tai nghe Wekome LikSound AT01 3.5mm",
+    "price": 150000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid317094",
+    "name": "Tai nghe TWS Vivumax VX5",
+    "price": 299000,
+    "connections": []
+  },
+  {
+    "id": "pid340644",
+    "name": "Tai nghe Xiaomi Type-C Earphones",
+    "price": 160000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid340849",
+    "name": "Tai nghe Bluetooth Redmi Buds 6 Play",
+    "price": 330000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid317095",
+    "name": "Tai nghe TWS Vivumax VX10",
+    "price": 299000,
+    "connections": []
+  },
+  {
+    "id": "pid344811",
+    "name": "Tai nghe SoundPEATS RunFree Lite 2",
+    "price": 590000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid339934",
+    "name": "Tai nghe TWS Pisen Buds P1 Plus",
+    "price": 590000,
+    "connections": []
+  },
+  {
+    "id": "pid337163",
+    "name": "Tai nghe Bluetooth Bagi PRO 1",
+    "price": 690000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid337162",
+    "name": "Tai nghe Bluetooth Bagi Xpods Y413",
+    "price": 490000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid180309",
+    "name": "Tai nghe bluetooth không dây I130 Rapoo",
+    "price": 339000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid331738",
+    "name": "Tai nghe Bluetooth Oppo Buds 2 Pro",
+    "price": 1165000,
+    "connections": [
+      "bluetooth"
+    ],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid336751",
+    "name": "Tai nghe Samsung Galaxy Buds3 Pro",
+    "price": 4690000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid336752",
+    "name": "Tai nghe Samsung Galaxy Buds3",
+    "price": 3490000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid339933",
+    "name": "Tai nghe Pisen EarPhone AP01 3.5mm",
+    "price": 150000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid294243",
+    "name": "Tai nghe Bluetooth Oppo Enco Buds 2",
+    "price": 775000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid293123",
+    "name": "Tai nghe Bluetooth Oppo Enco Air 2 Pro",
+    "price": 1165000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid338363",
+    "name": "Tai nghe Bluetooth Redmi Buds 6 Active",
+    "price": 440000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid325336",
+    "name": "Tai nghe Apple EarPods USB-C",
+    "price": 499000,
+    "connections": [],
+    "charging_port": "type-c"
+  },
+  {
+    "id": "pid147334",
+    "name": "Tai nghe Microlab K290",
+    "price": 185000,
+    "connections": []
+  },
+  {
+    "id": "pid286347",
+    "name": "Tai nghe Jellico Heavy Bass Earphone CT19",
+    "price": 150000,
+    "connections": []
+  },
+  {
+    "id": "pid327616",
+    "name": "Tai nghe myFirst BC FH8503SA (truyền xương)",
+    "price": 1500000,
+    "connections": []
+  },
+  {
+    "id": "pid314505",
+    "name": "Tai nghe Gaming Zidli ZH6 (3.5, USB, LED)",
+    "price": 279000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid326522",
+    "name": "Tai nghe Type C Vivumax JC18",
+    "price": 250000,
+    "connections": []
+  },
+  {
+    "id": "pid328147",
+    "name": "Tai nghe dây Jellico EP4A 3.5mm",
+    "price": 129000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid328595",
+    "name": "Tai nghe Bluetooth Havit TW981",
+    "price": 299000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid328393",
+    "name": "Tai nghe Vivumax J15 3.5mm",
+    "price": 99000,
+    "connections": [
+      "3.5mm"
+    ]
+  },
+  {
+    "id": "pid295268",
+    "name": "Tai nghe Marshall Major IV",
+    "price": 4290000,
+    "connections": []
+  },
+  {
+    "id": "pid295266",
+    "name": "Tai nghe Marshall Motif A.N.C",
+    "price": 4390000,
+    "connections": []
+  },
+  {
+    "id": "pid314671",
+    "name": "Tai nghe Gaming Zidli SH320V",
+    "price": 579000,
+    "connections": []
+  },
+  {
+    "id": "pid328148",
+    "name": "Tai nghe dây Jellico EP4A Lightning",
+    "price": 150000,
+    "connections": []
+  },
+  {
+    "id": "pid328146",
+    "name": "Tai nghe dây Jellico EP4A Type C",
+    "price": 169000,
+    "connections": []
+  },
+  {
+    "id": "pid326521",
+    "name": "Tai nghe Type C Vivumax JC16",
+    "price": 170000,
+    "connections": []
+  },
+  {
+    "id": "pid324931",
+    "name": "Tai nghe Gaming Zidli ZH12s (7.1,USB,LED)",
+    "price": 399000,
+    "connections": []
+  },
+  {
+    "id": "pid323196",
+    "name": "Tai nghe Jellico TWS20",
+    "price": 299000,
+    "connections": []
+  },
+  {
+    "id": "pid323197",
+    "name": "Tai nghe Jellico TWS22",
+    "price": 350000,
+    "connections": []
+  },
+  {
+    "id": "pid294818",
+    "name": "Tai nghe Vivo True wireless Vivo XE W25 TWS",
+    "price": 490000,
+    "connections": []
+  },
+  {
+    "id": "pid301774",
+    "name": "Tai nghe Xiaomi Redmi Buds 4 Lite",
+    "price": 530000,
+    "connections": []
+  },
+  {
+    "id": "pid314507",
+    "name": "Tai nghe Gaming Zidli ZCORE ZH6 7.1",
+    "price": 350000,
+    "connections": []
+  },
+  {
+    "id": "pid179908",
+    "name": "Tai nghe Bluetooth Energizer TWS - UB2608",
+    "price": 199000,
+    "connections": [
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "pid288975",
+    "name": "Tai nghe có dây H100 Rapoo",
+    "price": 169000,
+    "connections": []
+  },
+  {
+    "id": "pid159592",
+    "name": "Tai nghe Genius HS-M450-Silicom",
+    "price": 199000,
+    "connections": []
+  },
+  {
+    "id": "pid134753",
+    "name": "Tai nghe Apple Earpods chân lightning",
+    "price": 499000,
+    "connections": []
+  },
+  {
+    "id": "pid286348",
+    "name": "Tai nghe Jellico Strong Bass X4A",
+    "price": 159000,
+    "connections": []
+  },
+  {
+    "id": "pid147907",
+    "name": "Bộ nghe nói (Headset) HS-M200C Genius",
+    "price": 120000,
+    "connections": []
+  },
+  {
+    "id": "pid178711",
+    "name": "Tai nghe langsdom MJ61",
+    "price": 119000,
+    "connections": []
+  },
+  {
+    "id": "pid178708",
+    "name": "Tai nghe Kuke i7",
+    "price": 199000,
+    "connections": []
+  },
+  {
+    "id": "pid288009",
+    "name": "Tai nghe Kuke Hi-fi Earphone",
+    "price": 119000,
+    "connections": []
+  },
+  {
+    "id": "pid289024",
+    "name": "Tai nghe Xiaomi nhét tai Mi Basic",
+    "price": 140000,
+    "connections": []
+  },
+  {
+    "id": "pid289058",
+    "name": "Tai nghe PIONEER SE-C3T",
+    "price": 259000,
+    "connections": []
+  },
+  {
+    "id": "pid289059",
+    "name": "Tai nghe PIONEER SE-CL502T",
+    "price": 99000,
+    "connections": []
+  },
+  {
+    "id": "pid289165",
+    "name": "Tai nghe Jellico TWS 12",
+    "price": 420000,
+    "connections": []
+  },
+  {
+    "id": "pid314669",
+    "name": "Tai nghe Gaming Zidli FH18U",
+    "price": 698000,
+    "connections": []
+  },
+  {
+    "id": "pid317096",
+    "name": "Tai nghe TWS Vivumax VX15",
+    "price": 350000,
+    "connections": []
+  }
+]
